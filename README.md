@@ -55,7 +55,3 @@ Tarun Ghosh
 
 - GitHub API Documentation
 - Requests library
-
-Citations:
-[1] https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes
-[2] https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/
